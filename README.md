@@ -35,6 +35,7 @@ I'm driven by curiosity and love solving complex problems using data-driven appr
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![M](https://img.shields.io/badge/M-Language-blue?style=for-the-badge)
 
 ### Data Science & ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -64,18 +65,6 @@ I'm driven by curiosity and love solving complex problems using data-driven appr
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadBaloch284&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadBaloch284&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 Your portfolio and projects are available in your repositories. Check them out:
@@ -95,6 +84,16 @@ Your portfolio and projects are available in your repositories. Check them out:
 
 ---
 
+## 📈 GitHub Activity
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmadBaloch284&theme=radical)
+
+</div>
+
+---
+
 ## 💬 Let's Connect!
 
 I'm always open to:
@@ -110,16 +109,19 @@ I'm always open to:
 
 ---
 
-## 📈 Recent Activity
+## 🏆 My Stats
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmadBaloch284&theme=radical&hide_border=true)
+| Stat | Count |
+|------|-------|
+| 👨‍💻 Current Focus | Agentic AI |
+| 🎓 University | COMSATS Islamabad |
+| 🎯 Semester | 5th |
+| 📚 Main Skills | ML, Data Science, AI |
 
 ---
 
 <div align="center">
 
 ### ✨ Thanks for visiting my profile! Feel free to explore my repositories and reach out. ✨
-
-![Visitor Badge](https://badges.pufler.dev/visits/AhmadBaloch284/AhmadBaloch284?color=blue&logo=GitHub)
 
 </div>
